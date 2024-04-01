@@ -3,12 +3,15 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
+    background-color: #f2f2f2; /* Background color for the entire page */
 }
 
 header {
-    background-color: #333;
+    background-image: url('garbage_truck_image.jpg'); /* Replace 'garbage_truck_image.jpg' with the path to your image */
+    background-size: cover; /* Scale the background image to cover the entire header */
     color: #fff;
     padding: 20px;
+    text-align: center; /* Center the text */
 }
 
 h1 {
@@ -16,7 +19,10 @@ h1 {
 }
 
 section {
+    background-image: url('programming_image.jpg'); /* Replace 'programming_image.jpg' with the path to your image */
+    background-size: cover; /* Scale the background image to cover the entire section */
     padding: 20px;
+    color: #fff; /* Change text color to white for better visibility */
 }
 
 ul {
