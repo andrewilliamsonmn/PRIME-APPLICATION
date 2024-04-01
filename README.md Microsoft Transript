@@ -1,0 +1,5659 @@
+
+Transcript Legal name: Andre Williamson MCID: 995638715
+BlueCollarViking
+Username: BlueCollarViking-0065
+Contact email: bluecollarviking@gmail.com
+Modules completed
+397
+Training hours completed
+295 hr 20 min
+
+Modules completed
+
+
+
+Module title Description Completed on
+
+Duration
+
+
+
+Create a composed Form Recognizer model
+
+Learn how to assemble custom models into composed solutions that can
+
+analyze different types of your own documents.
+
+
+
+Mar 28,
+
+2024
+
+
+
+18 min
+
+
+
+
+
+Use prebuilt Form Recognizer models
+
+Learn what data you can analyze by choosing prebuilt Forms Analyzer models and how to deploy these
+
+models in a Form Analyzer solution.
+
+
+
+Mar 28,
+
+2024
+
+
+
+21 min
+
+
+
+Improve search
+
+results using vector search in Azure
+
+Cognitive Search
+
+
+
+Learn how to improve search results using vector search.
+
+
+
+Mar 28,
+
+2024
+
+
+
+21 min
+
+
+
+Use semantic
+
+search to get better search results in
+
+Azure Cognitive Search
+
+
+
+Learn how semantic search can help you to improve your Azure Cognitive Search results.
+
+
+
+Mar 28, 24 min
+
+2024
+
+
+
+
+
+
+
+Train a model and debug it with
+
+Responsible AI dashboard
+
+Learn how to debug an AI model using the Responsible AI dashboard in Azure Machine Learning studio to ensure it
+
+performs responsibly and is less harmful.
+
+
+
+Mar 28, 1 hr 5 min
+
+2024
+
+
+
+Get started with prompt flow to develop Large
+
+Language Model (LLM) apps
+
+
+
+Get started with prompt flow to
+
+develop Large Language Model (LLM) apps.
+
+
+
+Mar 28, 45 min
+
+2024
+
+
+
+Fine-tune a
+
+foundation model with Azure Machine Learning
+
+Learn how to fine-tune a foundation model from the model catalog in Azure Machine Learning.
+
+
+
+Mar 28,
+
+2024
+
+
+
+47 min
+
+
+
+Understand the Transformer
+
+architecture and explore large
+
+language models in Azure Machine
+
+Learning
+
+Learn about the history of natural
+
+language processing (NLP), including how the Transformer architecture
+
+revolutionized the field and helped us create large language models (LLMs). Work with LLMs in Azure Machine
+
+Learning through the foundation models in the model catalog.
+
+
+
+Mar 28,
+
+2024
+
+
+
+54 min
+
+
+
+Classify and
+
+moderate text with Azure Content Moderator
+
+In this module, we'll introduce you to Azure Content Moderator and show how to use it for text moderation
+
+
+
+Mar 28,
+
+2024
+
+
+
+31 min
+
+
+
+Deploy a model to a managed online endpoint
+
+Deploy a model to a managed online endpoint
+
+
+
+Mar 27, 45 min
+
+2024
+
+
+
+Track model
+
+training in Jupyter notebooks with MLflow
+
+
+
+Track model training in Jupyter notebooks with MLflow
+
+
+
+Mar 27,
+
+2024
+
+
+
+33 min
+
+
+
+Work with
+
+environments in Azure Machine Learning
+
+
+
+Azure Machine Learning environments Python SDK v2
+
+
+
+Mar 27,
+
+2024
+
+
+
+42 min
+
+
+
+Work with compute targets in Azure
+
+Machine Learning
+
+
+
+Azure Machine Learning Python SDK v2
+
+
+
+Mar 27, 37 min
+
+2024
+
+
+
+Image classification with custom Azure AI Vision models
+
+Classify images with custom Azure AI Vision models
+
+
+
+Mar 27, 40 min
+
+2024
+
+
+
+Monitor Azure AI services
+
+Learn to monitor Azure AI services. Mar 27, 2024
+
+42 min
+
+
+
+Secure Azure AI services
+
+Learn to secure Azure AI services. Mar 27, 2024
+
+42 min
+
+
+
+Introduction to Azure Cognitive Search
+
+Explore Azure Cognitive Search to discover how to create an index, import data, and query the index for better
+
+search results.
+
+
+
+Mar 27,
+
+2024
+
+
+
+1 hr 5 min
+
+
+
+Analyze receipts with the Form Recognizer service
+
+Analyze receipts with the Form Recognizer service
+
+
+
+Mar 27, 26 min
+
+2024
+
+
+
+Recognize and
+
+synthesize speech
+
+Recognize and synthesize speech Mar 27, 2024
+
+30 min
+
+
+
+Create a language model with Conversational
+
+Language
+
+Understanding
+
+
+
+Create a language model with Conversational Language
+
+Understanding
+
+
+
+Mar 27, 42 min
+
+2024
+
+
+
+Build a bot with the Language Service
+
+and Azure Bot Service
+
+
+
+Build a bot with the Language Service and Azure Bot Service
+
+
+
+Mar 27,
+
+2024
+
+
+
+29 min
+
+
+
+Analyze text with the Language
+
+service
+
+
+
+Analyze text with the Language service
+
+
+
+Mar 27, 41 min
+
+2024
+
+
+
+Read text with the Computer Vision service
+
+Read text with the Computer Vision service
+
+
+
+Mar 27, 27 min
+
+2024
+
+
+
+Detect and analyze faces with the Face service
+
+Detect and analyze faces with the Face service
+
+
+
+Mar 27, 27 min
+
+2024
+
+
+
+Analyze images
+
+with the Computer Vision service
+
+Analyze images with the Computer Vision service
+
+
+
+Mar 27, 46 min
+
+2024
+
+
+
+Fundamentals of Azure AI services
+
+This module is an introduction to how Azure AI services can be used to build applications.
+
+
+
+Mar 27, 36 min
+
+2024
+
+
+
+Deploy Azure AI services in
+
+containers
+
+Learn to deploy Azure AI services in containers
+
+
+
+Mar 27, 49 min
+
+2024
+
+
+
+
+
+Fundamentals of machine learning
+
+Machine learning is the basis for most modern artificial intelligence solutions. A familiarity with the core concepts on which machine learning is based is an important foundation for
+
+understanding AI.
+
+
+
+Mar 27,
+
+2024
+
+
+
+1 hr 54 min
+
+
+
+
+
+Configure Power BI report filters
+
+Report filtering is a complex topic
+
+because many techniques are available for filtering a Microsoft Power BI report.
+
+However, with complexity comes
+
+control, allowing you to design reports that meet requirements and
+
+expectations.
+
+
+
+Mar 27, 45 min
+
+2024
+
+
+
+
+
+Design Power BI reports
+
+Because Power BI includes more than 30 core visuals, it can be challenging for a beginner to select the correct
+
+visual. This module will guide you
+
+through selecting the most appropriate visual type to meet your design and
+
+report layout requirements.
+
+
+
+Mar 27,
+
+2024
+
+
+
+1 hr 39 min
+
+
+
+Enforce Power BI model security
+
+Enforce model security in Power BI using row-level security and object- level security.
+
+Mar 27,
+
+2024
+
+1 hr 21 min
+
+
+
+
+
+Optimize a model for performance in Power BI
+
+Performance optimization, also known as performance tuning, involves making changes to the current state of the data model so that it runs more efficiently.
+
+Essentially, when your data model is optimized, it performs better.
+
+
+
+Mar 27,
+
+2024
+
+
+
+1 hr 9 min
+
+
+
+
+
+Use DAX time intelligence
+
+functions in Power BI Desktop models
+
+By the end of this module, you’ll learn the meaning of time intelligence and how to add time intelligence DAX
+
+calculations to your model. These
+
+calculations will include year-to-date
+
+(YTD), year-over-year (YoY) growth, and others.
+
+
+
+Mar 27, 1 hr 4 min
+
+2024
+
+
+
+
+
+Describe Power BI Desktop models
+
+In this module, you'll learn about the Power BI Desktop model structure, star schema design basics, analytics queries, and report visual configuration. This
+
+module provides a strong foundation on which you can learn to optimize model designs and add model
+
+calculations.
+
+
+
+Mar 27,
+
+2024
+
+
+
+29 min
+
+
+
+
+
+Add calculated
+
+tables and columns to Power BI
+
+Desktop models
+
+By the end of this module, you'll be able to add calculated tables and
+
+calculated columns to your data model.
+
+You'll also be able to describe row context, which is used to evaluated
+
+calculated column formulas. Because
+
+it's possible to add columns to a table using Power Query, you'll also learn
+
+when it's best to create calculated columns instead of Power Query computed columns.
+
+
+
+Mar 27, 19 min
+
+2024
+
+
+
+Interact with an ASP.NET Core
+
+minimal API
+
+Learn how APIs are implemented in ASP.NET Core, and how to use API documentation to learn the APIs
+
+requirements.
+
+
+
+Jan 27, 2024 37 min
+
+
+
+Guided project -
+
+Build auto suggest engine with Copilot
+
+Use GitHub Copilot to interpret, debug, and extend project code for a Trie data structure that supports autocomplete
+
+and spelling suggestion features.
+
+
+
+Jan 27, 2024 52 min
+
+
+
+
+
+Guided project langstons ant
+
+This module will guide you through the steps required to develop your own
+
+Langston's Ant project. Your code will use interfaces to represent the
+
+functions the ants can perform.
+
+
+
+Jan 27, 2024 28 min
+
+
+
+
+
+Design code with interfaces
+
+In this module, you'll learn about tightly coupled code and how to avoid it.
+
+You'll also learn how interfaces can
+
+improve your project by reducing code dependencies and standardizing your code.
+
+
+
+Jan 27, 2024 45 min
+
+
+
+
+
+Implement interfaces
+
+In this module, you'll learn to extend classes with multiple interfaces, use
+
+interfaces as a type, and understand interface design practices.
+
+
+
+Jan 27, 2024 43 min
+
+
+
+
+
+Plan a Form Recognizer solution
+
+Learn how to use Azure Forms Analyzer to build solutions that analyze forms
+
+and output data for storage or further processing.
+
+
+
+Jan 27, 2024 35 min
+
+
+
+Build a Form Recognizer custom skill for Azure
+
+Cognitive Search
+
+Learn how to use an Azure Form Recognizer solution as a custom skill to enrich content in an Azure Cognitive
+
+Search pipeline.
+
+
+
+Jan 27, 2024 33 min
+
+
+
+Create speech-
+
+enabled apps with Azure AI services
+
+
+
+Create speech-enabled apps with Azure Jan 27, 2024 53 min AI services.
+
+
+
+
+
+Configure 3D assets for mixed reality in Unity
+
+Get step-by-step instructions on how to place Prefab 3D assets and models into a Unity scene. Learn about Unity Scriptable Objects and mixed reality
+
+design considerations before deploying to a HoloLens 2.
+
+
+
+Jan 27, 2024 41 min
+
+
+
+
+
+Build a 3D Scene for mixed reality in
+
+Unity
+
+Learn how to create a 3D Scene in
+
+Unity using the Microsoft Maps SDK or static terrain. Get familiar with mixed
+
+reality scene design, the Unity interface, and deploying your Unity project to a mixed reality device.
+
+
+
+Jan 27, 2024 52 min
+
+
+
+
+
+Set up a mixed
+
+reality project for Azure Digital Twins in Unity
+
+Get step-by-step guidance on how to set up and configure a mixed reality
+
+project in Unity. Learn about the Azure Digital Twins and SignalR services and common use cases for the Azure
+
+platform in Mixed Reality.
+
+
+
+Jan 27, 2024 34 min
+
+
+
+
+
+Connect IoT data to mixed reality with
+
+Azure Digital Twin and Unity
+
+Stream simulated operational telemetry data from physical assets to Azure Digital Twin and visualize data in Unity and mixed reality. Learn how to use an ARM template, create a user interface
+
+in Unity, and identify performance
+
+events before deploying to a HoloLens 2.
+
+
+
+Jan 27, 2024 1 hr 52
+
+min
+
+
+
+
+
+Manage devices in Azure IoT Central
+
+This module introduces you to the device management capabilities
+
+provided by Azure IoT Central and how to use the Azure IoT Central UI tools to perform device management at scale with device groups and jobs.
+
+
+
+Jan 27, 2024 17 min
+
+
+
+
+
+Examine Azure
+
+Security Center and Azure Defender for IoT
+
+This module introduces you to various Azure services that can be used to monitor and enhance the security of your solution and examines the
+
+features and capabilities of Azure Defender for IoT.
+
+
+
+Jan 27, 2024 30 min
+
+
+
+
+
+Examine security fundamentals for IoT
+
+This module introduces you to the IoT security infrastructure, security best
+
+practices, threat modeling, and the
+
+security tasks that are assigned to the various roles that contribute to an IoT solution.
+
+
+
+Jan 27, 2024 28 min
+
+
+
+
+
+Build an IoT service for your cloud-
+
+native apps by
+
+using IoT Central
+
+This module describes how to extend your cloud-native application to
+
+provide IoT functionality by integrating its components with Azure IoT services and using Cosmos DB to provide a
+
+persistent data store.
+
+
+
+Jan 27, 2024 1 hr 31
+
+min
+
+
+
+
+
+Stream internet-of- things (IoT) data to a cloud-native app with IoT Central
+
+Describes how Azure IoT Central facilitates the design, testing, and implementation of distributed
+
+applications that process IoT telemetry data generated by smart devices. When designing cloud-native applications,
+
+you can leverage Azure IoT Central to deliver a comprehensive set of features that help with design, testing, and
+
+implementation of distributed
+
+applications that rely on IoT telemetry.
+
+
+
+Jan 27, 2024 47 min
+
+
+
+
+
+Introduction to
+
+cloud-native apps on Azure
+
+This module teaches concepts and ideas associated with cloud-native
+
+apps. We cover selecting Open-Source Software (OSS) components like
+
+Kubernetes and PostgreSQL, as well as unique Azure tools like Cosmos DB. We’ll also identify situations that call for building cloud-native apps, and review selecting components in an example
+
+scenario.
+
+
+
+Jan 27, 2024 27 min
+
+
+
+
+
+Build a basic cloud- native service using PostgreSQL and
+
+Node.js
+
+Build a basic service consisting of an Express.js-based web service with
+
+Microsoft Azure Database for
+
+PostgreSQL providing its persistent data store, and managed by a front- end Next.js management web app.
+
+
+
+Jan 27, 2024 1 hr 40
+
+min
+
+
+
+
+
+Orchestrate
+
+containers for
+
+cloud-native apps with AKS
+
+Cloud-native applications are modular in nature, with components separated and self-contained. Components can be encapsulated in containers, such as those created with Docker, or
+
+published from an Azure service. Dynamic scaling can then be managed by Kubernetes. We'll learn to decide
+
+when Kubernetes is right for our cloud- native app, and we'll see how to use it as a first building block of our cloud-
+
+native architecture.
+
+
+
+Jan 27, 2024 52 min
+
+
+
+Apply cluster upgrades and
+
+security patches with Azure
+
+Kubernetes Service
+
+
+
+Apply the latest version upgrades and patches to your Azure Kubernetes
+
+Service clusters.
+
+
+
+Jan 27, 2024 1 hr
+
+
+
+Design an Azure
+
+Kubernetes Service network with Azure CNI
+
+In this module, we'll take a detailed look at the process of designing an Azure Kubernetes Service network using the Azure Container Network Interface (CNI) plug-in.
+
+
+
+Jan 27, 2024 1 hr
+
+
+
+Choose the best
+
+networking plugin for AKS
+
+Learn how to choose between Azure CNI and kubenet, two networking
+
+plugin options for an Azure Kubernetes Service cluster.
+
+
+
+Jan 27, 2024 20 min
+
+
+
+Analyze text with Azure AI Language
+
+Analyze text with Azure AI Language Jan 27, 2024 54 min
+
+
+
+Create and
+
+consume Azure AI services
+
+
+
+Learn to create and consume Azure AI Jan 27, 2024 42 min services.
+
+
+
+Introduce interfaces This module introduces the basics of
+
+interfaces in C# and how to use them.
+
+Dec 31, 2023 50 min
+
+
+
+Analyze images Analyze images Sep 17, 2023 48 min
+
+
+
+
+
+Add measures to Power BI Desktop models
+
+In this module, you'll learn how to work with implicit and explicit measures.
+
+You'll start by creating simple
+
+measures, which summarize a single column or table. Then, you'll create more detailed measures based on other measures in the model.
+
+Additionally, you'll learn about the
+
+similarities of, and differences between, a calculated column and a measure.
+
+
+
+Sep 17, 2023 58 min
+
+
+
+
+
+Write DAX formulas for Power BI
+
+Desktop models
+
+In this module, you'll learn how to write DAX formulas to create calculated
+
+tables, calculated columns, and
+
+measures, which are different types of model calculations. Additionally, you'll learn how to write and format DAX
+
+formulas, which consist of expressions that use functions, operators,
+
+references to model objects, constants, and variables.
+
+
+
+Sep 17, 2023 27 min
+
+
+
+
+
+Design a
+
+data model in Power BI
+
+The process of creating a complicated data model in Power BI is
+
+straightforward. If your data is coming in from more than one transactional
+
+system, before you know it, you can
+
+have dozens of tables that you have to work with. Building a great data model is about simplifying the disarray. A star schema is one way to simplify a data model, and you’ll learn about the
+
+terminology and implementation of
+
+them in this module. You will also learn about why choosing the correct data
+
+granularity is important for
+
+performance and usability of your Power BI reports. Finally, you’ll learn about improving performance with your Power BI data models.
+
+
+
+Sep 17, 2023 1 hr 23
+
+min
+
+
+
+
+
+Choose a Power BI model framework
+
+Describe Power BI data model frameworks, their benefits and
+
+limitations, and features to help
+
+optimize your Power BI data models.
+
+
+
+Sep 17, 2023 46 min
+
+
+
+
+
+Get data in Power BI
+
+You will learn how to retrieve data from a wide variety of data sources,
+
+including Microsoft Excel, relational
+
+databases, and NoSQL data stores. You will also learn how to improve
+
+performance while retrieving data.
+
+
+
+Sep 17, 2023 2 hr 1 min
+
+
+
+
+
+Clean, transform, and load data in Power BI
+
+Power Query has an incredible amount of features that are dedicated to
+
+helping you clean and prepare your data for analysis. You will learn how to simplify a complicated model, change data types, rename objects, and pivot data. You will also learn how to profile columns so that you know which
+
+columns have the valuable data that you’re seeking for deeper analytics.
+
+
+
+Sep 17, 2023 2 hr 1 min
+
+
+
+
+
+Discover data analysis
+
+Would you like to explore the journey of a data analyst and learn how a data analyst tells a story with data? In this module, you will explore the different roles in data and learn the different
+
+tasks of a data analyst.
+
+
+
+Sep 17, 2023 36 min
+
+
+
+Train deep learning models in Azure
+
+Databricks
+
+Learn how to use deep learning libraries like PyTorch in Azure
+
+Databricks, and to distribute training by using Horovod
+
+
+
+Sep 17, 2023 1 hr 9 min
+
+
+
+Use AutoML in
+
+Azure Databricks
+
+Learn how to use AutoML to train optimal machine learning models for your data in Azure Databricks
+
+
+
+Sep 17, 2023 44 min
+
+
+
+Getting started with the Microsoft Cloud Adoption Framework for
+
+Azure
+
+
+
+Use the Cloud Adoption Framework
+
+getting-started guides to unblock your organization's cloud adoption efforts.
+
+
+
+Sep 16, 2023 43 min
+
+
+
+Manage apps in Power Apps
+
+Manage app versions, app sharing, and environments in Power Apps.
+
+Sep 16, 2023 42 min
+
+
+
+
+
+Navigation in a canvas app in Power Apps
+
+App users can only navigate through
+
+the navigation options provided by an app developer, and this module is
+
+designed to help you build a good
+
+navigation experience for your canvas app.
+
+
+
+Sep 16, 2023 39 min
+
+
+
+
+
+Create tables in Dataverse
+
+Dataverse lets you securely store and manage data that's used by business applications. Standard and custom
+
+tables within Dataverse provide a
+
+secure and cloud-based storage option for your data.
+
+
+
+Sep 16, 2023 1 hr 27
+
+min
+
+
+
+Introduction to Microsoft Power Platform
+
+
+
+Introduction to Microsoft Power Sep 16, 2023 50 min Platform
+
+
+
+
+
+Discover Azure message queues
+
+Learn how to integrate Azure Service Bus and Azure Queue storage in to your solution, and how to send and receive message by using .NET.
+
+
+
+Sep 16, 2023 57 min
+
+
+
+
+
+Monitor app performance
+
+Learn how to use the tools offered in Application Insights to enhance the performance and stability of your
+
+applications.
+
+
+
+Sep 16, 2023 24 min
+
+
+
+
+
+How to build the UI in a canvas app in Power Apps
+
+Do you want to build a better UI for app users? This module helps you do that using themes, icons, images,
+
+personalization, different form factors, and controls.
+
+
+
+Sep 16, 2023 51 min
+
+
+
+Customize a canvas app in Power Apps
+
+Learn how to customize an app by adding controls, images, and logic.
+
+Sep 16, 2023 45 min
+
+
+
+
+
+Explore API Management
+
+Learn how the API Management service functions, how to transform and secure APIs, and how to create a backend API.
+
+
+
+Sep 16, 2023 42 min
+
+
+
+
+
+Develop for Azure Cache for Redis
+
+Learn how to configure Azure Cache for Redis, interact with the cache, and
+
+connect an application to Azure Cache for Redis by using .NET.
+
+
+
+Sep 16, 2023 30 min
+
+
+
+
+
+Develop for storage on CDNs
+
+Learn how the Azure Content Delivery Network (CDN) functions, how to control cache behavior, and how to
+
+perform actions by using .NET.
+
+
+
+Sep 16, 2023 18 min
+
+
+
+
+
+Explore Azure Event Grid
+
+Learn how to integrate Azure Event Grid in to your solution, implement access control to events, and how to
+
+route custom events to web endpoint by using Azure CLI.
+
+
+
+Sep 16, 2023 30 min
+
+
+
+Explore Azure Event Hubs
+
+Learn how Azure Event Hubs captures events and how to scale your
+
+processing application.
+
+
+
+Sep 16, 2023 24 min
+
+
+
+Implement Azure Key Vault
+
+Implement Azure Key Vault Sep 16, 2023 21 min
+
+
+
+Implement Azure App Configuration
+
+Implement Azure App Configuration Sep 16, 2023 21 min
+
+
+
+Implement
+
+managed identities
+
+Implement managed identities Sep 16, 2023 23 min
+
+
+
+
+
+Explore the
+
+Microsoft identity platform
+
+Learn the core features and
+
+functionality of the Microsoft identity platform which includes authentication service, open-source libraries, and
+
+application management tools to
+
+enable and control access to resources.
+
+
+
+Sep 16, 2023 21 min
+
+
+
+Explore Microsoft Graph
+
+Learn how Microsoft Graph facilitates
+
+the access and flow of data and how to form queries through REST and code.
+
+
+
+Sep 16, 2023 21 min
+
+
+
+Implement shared access signatures
+
+Learn how to use shared access signatures to authorize access to storage resources.
+
+
+
+Sep 16, 2023 18 min
+
+
+
+Implement
+
+authentication by
+
+using the Microsoft Authentication
+
+Library
+
+
+
+Learn how to implement authentication by using the Microsoft Authentication Library.
+
+
+
+Sep 16, 2023 25 min
+
+
+
+Manage container images in Azure Container Registry
+
+Learn how to use Azure Container
+
+Registry to store your container images, and automate builds and deployments.
+
+
+
+Sep 16, 2023 31 min
+
+
+
+Implement Azure Container Apps
+
+Run serverless containerized apps in Azure Container Apps service.
+
+Sep 16, 2023 40 min
+
+
+
+Run container
+
+images in Azure Container Instances
+
+Learn how Azure Container Instances
+
+can help you quickly deploy containers, how to set environment variables, and specify container restart policies.
+
+
+
+Sep 16, 2023 31 min
+
+
+
+Explore Azure Cosmos DB
+
+Learn the core features and
+
+functionality of Azure Cosmos DB.
+
+Sep 16, 2023 39 min
+
+
+
+
+
+Work with Azure Cosmos DB
+
+Learn how to develop client and server- side programming solutions on Azure Cosmos DB.
+
+
+
+Sep 16, 2023 40 min
+
+
+
+Explore Azure Blob storage
+
+Learn the core features and
+
+functionality of Azure Blob storage.
+
+Sep 16, 2023 23 min
+
+
+
+Work with Azure Blob storage
+
+Learn how to use the Azure Blob
+
+storage client library to create and update Blob storage resources.
+
+
+
+Sep 16, 2023 38 min
+
+
+
+Manage the Azure Blob storage
+
+lifecycle
+
+Learn how to manage data availability throughout the Azure Blob storage
+
+lifecycle.
+
+
+
+Sep 16, 2023 21 min
+
+
+
+
+
+Explore Azure Functions
+
+Learn how Azure Functions can be a great solution for data processing,
+
+systems integration, and building simple APIs and microservices.
+
+
+
+Sep 16, 2023 18 min
+
+
+
+Develop Azure Functions
+
+Learn how to create and deploy Azure Functions.
+
+Sep 16, 2023 33 min
+
+
+
+Explore Azure App Service deployment slots
+
+
+
+Explore Azure App Service deployment Sep 16, 2023 21 min slots
+
+
+
+Scale apps in Azure App Service
+
+Scale apps in Azure App Service Sep 16, 2023 21 min
+
+
+
+
+
+Configure web app settings
+
+Learn how to create and manage
+
+application settings, install SSL/TLS
+
+certificates to secure web traffic, enable diagnostic logging, and create virtual
+
+app to directory mappings.
+
+
+
+Sep 16, 2023 24 min
+
+
+
+
+
+Explore Azure App Service
+
+Learn about the key components of Azure App Service and how App
+
+Service can help you create, maintain, and deploy web apps more efficiently.
+
+
+
+Sep 16, 2023 39 min
+
+
+
+Run pipelines in Azure Machine Learning
+
+
+
+Run pipelines in Azure Machine Sep 16, 2023 1 hr 5 min Learning
+
+
+
+Find the best
+
+classification model with Automated
+
+Machine Learning
+
+
+
+Find the best classification model with Automated Machine Learning
+
+
+
+Sep 16, 2023 1 hr 15
+
+min
+
+
+
+Deploy a model to a batch endpoint
+
+Deploy a model to a batch endpoint Sep 16, 2023 1 hr 7 min
+
+
+
+Run a training script as a command job
+
+in Azure Machine Learning
+
+
+
+Run a command job with the Azure Machine Learning Python SDK v2
+
+
+
+Sep 16, 2023 54 min
+
+
+
+Perform hyperparameter
+
+tuning with Azure Machine Learning
+
+
+
+Perform hyperparameter tuning with Azure Machine Learning
+
+
+
+Sep 16, 2023 46 min
+
+
+
+Track model training with
+
+MLflow in jobs
+
+
+
+Track model training with MLflow in Sep 16, 2023 54 min jobs
+
+
+
+Make data available in Azure Machine
+
+Learning
+
+
+
+Make data available in Azure Machine Sep 16, 2023 58 min Learning
+
+
+
+Tune
+
+hyperparameters in Azure Databricks
+
+Learn how to use the Hyperopt library in Azure Databricks to tune machine
+
+learning hyperparameters.
+
+
+
+Sep 16, 2023 1 hr 8 min
+
+
+
+Use MLflow in
+
+Azure Databricks
+
+Learn how to use MLflow in Azure
+
+Databricks to track machine learning experiments and deploy models.
+
+
+
+Sep 16, 2023 1 hr 3 min
+
+
+
+Train a machine
+
+learning model in Azure Databricks
+
+Learn how to train machine learning models using Spark and the MLlib
+
+library in Azure Databricks.
+
+
+
+Sep 16, 2023
+
+1 hr 24 min
+
+
+
+Explore Azure Databricks
+
+Explore Azure Databricks Sep 16, 2023 44 min
+
+
+
+Run Azure Databricks
+
+Notebooks with
+
+Azure Data Factory
+
+
+
+Run Azure Databricks Notebooks with Azure Data Factory
+
+
+
+Sep 16, 2023 1 hr 1 min
+
+
+
+Use SQL
+
+Warehouses in
+
+Azure Databricks
+
+
+
+Use SQL Warehouses in Azure Sep 16, 2023 44 min Databricks
+
+
+
+Use Delta Lake in Azure Databricks
+
+Use Delta Lake in Azure Databricks Sep 16, 2023 1 hr 3 min
+
+
+
+Introduction to
+
+Microsoft Purview
+
+Introduction to Microsoft Purview Sep 16, 2023 31 min
+
+
+
+Integrate Microsoft Purview and Azure Synapse Analytics
+
+Learn how to integrate Microsoft Purview with Azure Synapse Analytics to improve data discoverability and
+
+lineage tracking.
+
+
+
+Sep 16, 2023 1 hr 7 min
+
+
+
+Manage Power BI artifacts by using Microsoft Purview
+
+Improve data governance and asset
+
+discovery using Power BI and Microsoft Purview integration.
+
+
+
+Sep 16, 2023
+
+
+
+20 min
+
+
+
+Catalog data
+
+artifacts by using Microsoft Purview
+
+
+
+Register, scan, catalog, and view data assets and their relevant details in
+
+Microsoft Purview.
+
+
+
+Sep 16, 2023
+
+
+
+28 min
+
+Discover trusted data using Azure
+
+
+
+purview, enterprise data analyst
+
+
+
+Sep 16, 2023
+
+
+
+29 min
+
+Purview
+
+
+
+
+
+
+
+
+
+Work with data
+
+
+
+Explore how Azure Stream Analytics
+
+
+
+
+
+streams by using Azure Stream
+
+Analytics
+
+integrates with your applications or Internet of Things devices to gain
+
+insights with real-time streaming data.
+
+Sep 16, 2023 40 min
+
+
+
+Visualize real-time data with Azure
+
+Stream Analytics and Power BI
+
+By combining the stream processing capabilities of Azure Stream Analytics and the data visualization capabilities of Microsoft Power BI, you can create real-time data dashboards.
+
+
+
+Sep 16, 2023 1 hr 8 min
+
+
+
+Ingest streaming data using Azure Stream Analytics
+
+and Azure Synapse Analytics
+
+Azure Stream Analytics provides a real- time data processing engine that you
+
+can use to ingest streaming event data into Azure Synapse Analytics for further analysis and reporting.
+
+
+
+Sep 16, 2023
+
+
+
+1 hr 14 min
+
+
+
+Design hybrid transactional and analytical
+
+processing using Azure Synapse
+
+Analytics
+
+
+
+Design hybrid transactional and analytical processing using Azure Synapse Analytics
+
+
+
+Sep 16, 2023 19 min
+
+
+
+Implement Azure Synapse Link for SQL
+
+
+
+Implement Azure Synapse Link for SQL Sep 16, 2023 55 min
+
+
+
+Configure Azure Synapse Link with Azure Cosmos DB
+
+
+
+Configure Azure Synapse Link with Sep 16, 2023 1 hr 7 min Azure Cosmos DB
+
+
+
+Build a data
+
+pipeline in Azure Synapse Analytics
+
+
+
+Build a data pipeline in Azure Synapse Sep 16, 2023 Analytics
+
+1 hr 11 min
+
+
+
+Use Spark
+
+Notebooks in an Azure Synapse
+
+Pipeline
+
+This module describes how Apache Spark notebooks can be integrated into an Azure Synapse Analytics pipeline.
+
+
+
+Sep 16, 2023 48 min
+
+
+
+Design a multidimensional schema to optimize analytical workloads
+
+
+
+Design a multidimensional schema to optimize analytical workloads
+
+
+
+Sep 16, 2023 1 hr 29
+
+min
+
+
+
+Secure a data
+
+warehouse in Azure Synapse Analytics
+
+
+
+Secure a data warehouse in Azure Sep 16, 2023 55 min Synapse Analytics
+
+
+
+Manage and monitor data
+
+warehouse activities in Azure Synapse
+
+Analytics
+
+
+
+Manage and monitor data warehouse Sep 16, 2023 47 min activities in Azure Synapse Analytics
+
+
+
+Load data into a relational data warehouse
+
+Learn how to load tables in a relational data warehouse that is hosted in a
+
+dedicated SQL pool in Azure Synapse Analytics.
+
+
+
+Sep 16, 2023 1 hr 9 min
+
+
+
+Query data in the lake using Azure Synapse serverless SQL pools
+
+
+
+Query data in the lake using Azure Synapse serverless SQL pools
+
+
+
+Sep 16, 2023 1 hr 8 min
+
+
+
+Secure data and manage users in Azure Synapse
+
+serverless SQL pools
+
+
+
+Secure data and manage users in Azure Sep 16, 2023 18 min Synapse serverless SQL pools
+
+
+
+Create metadata
+
+objects in Azure Synapse serverless SQL pools
+
+Create metadata objects in Azure Synapse serverless SQL pools
+
+Sep 16, 2023
+
+1 hr 4 min
+
+Use Azure Synapse serverless SQL
+
+
+
+Use Azure Synapse serverless SQL
+
+
+
+
+
+pools for
+
+transforming the data in the lake
+
+pools for transforming the data in the lake
+
+Sep 16, 2023
+
+47 min
+
+
+
+Introduction to Azure Synapse Analytics
+
+
+
+Introduction to Azure Synapse Analytics Sep 16, 2023
+
+1 hr 22 min
+
+
+
+
+
+Introduction to Azure Data Lake storage
+
+Discover how Data Lake Storage
+
+provides a repository where you can upload and store unstructured data
+
+bringing new efficiencies to processing big data analytics.
+
+
+
+Sep 16, 2023 30 min
+
+
+
+Introduction to data engineering on
+
+Azure
+
+This module describes how Microsoft Azure provides a comprehensive
+
+platform for data engineering.
+
+
+
+Sep 16, 2023 26 min
+
+
+
+Create an Azure Cognitive Search solution
+
+
+
+Create an Azure Cognitive Search Sep 16, 2023 1 hr 3 min solution
+
+
+
+Maintain an Azure Cognitive Search solution
+
+Maintain the performance, cost, and reliability of your Azure Cognitive
+
+Search solutions.
+
+
+
+Sep 16, 2023 43 min
+
+
+
+Search data outside the Azure platform in Azure Cognitive Search using Azure Data Factory
+
+
+
+Use Azure Data Factory to add data
+
+that resides inside or outside the Azure platform into your search indexes.
+
+
+
+Sep 16, 2023 37 min
+
+
+
+
+
+Build an Azure
+
+Machine Learning custom skill for
+
+Azure Cognitive Search
+
+Custom skills allow you to enhance datasets as they pass through the enrichment pipeline. Using Azure Machine Learning as a custom skill
+
+means you can build custom models for regression or classification to enrich your search indexes.
+
+
+
+Sep 16, 2023 43 min
+
+
+
+
+
+Implement
+
+advanced search features in Azure Cognitive Search
+
+Use more advanced features of Azure Cognitive Search to improve your
+
+existing search solutions. Learn how to change the ranking on documents,
+
+boost the most important terms to your organization, and allow searching in multiple languages.
+
+
+
+Sep 16, 2023 54 min
+
+
+
+
+
+Enrich a search index using
+
+Language Studio
+
+Azure Cognitive Service for language gives you the power of Natural
+
+Language Processing (NLP) to
+
+automatically understand and analyze text. You can use that power to
+
+enhance your search solutions.
+
+
+
+Sep 16, 2023 52 min
+
+
+
+Create a knowledge store with Azure
+
+Cognitive Search
+
+
+
+Create a knowledge store with Azure Sep 16, 2023 46 min Cognitive Search
+
+
+
+Create a custom skill for Azure Cognitive Search
+
+
+
+Sep 16, 2023 46 min
+
+
+
+Azure's Computer Vision service uses
+
+advanced algorithms to process images
+
+and return information based on the
+
+visual features you're interested in. This module teaches you how to use the
+
+Azure Computer Vision's OCR API and Read API.
+
+Sep 16, 2023
+
+33 min
+
+Form Recognizer extracts data at scale to enable the submission of documents in real time, at scale, with accuracy. This
+
+
+
+Sep 16, 2023
+
+
+
+52 min
+
+module gives users the tools to use the Azure Form Recognizer vision API.
+
+
+
+
+
+
+
+Build a question answering solution
+
+
+
+Sep 16, 2023
+
+
+
+53 min
+
+
+
+Detect, analyze, and recognize faces
+
+
+
+Sep 16, 2023
+
+
+
+1 hr 8 min
+
+
+
+Detect objects in images
+
+
+
+Sep 15, 2023
+
+
+
+55 min
+
+
+
+Classify images
+
+
+
+Sep 15, 2023
+
+
+
+48 min
+
+
+
+Analyze video
+
+
+
+Sep 15, 2023
+
+
+
+48 min
+
+Create a custom skill for Azure
+
+Cognitive Search
+
+
+
+Read Text in Images and Documents
+
+with the Computer Vision Service
+
+
+
+Extract data from forms with Form Recognizer
+
+
+
+Build a question
+
+answering solution
+
+
+
+Detect, analyze, and recognize faces
+
+
+
+Detect objects in images
+
+
+
+Classify images Analyze video
+
+
+
+Create a bot with
+
+the Bot Framework SDK
+
+
+
+Learn how to build a bot by using the Sep 15, 2023 57 min Microsoft Bot Framework SDK.
+
+
+
+Create a Bot with
+
+the Bot Framework Composer
+
+
+
+Create a Bot with the Bot Framework Sep 15, 2023 Composer
+
+1 hr 12 min
+
+
+
+
+
+Create custom text classification
+
+solutions
+
+The Language service within Azure
+
+Cognitive Services enables processing of natural language to use in your own app. Learn how to build a custom text classification project.
+
+
+
+Sep 15, 2023 58 min
+
+
+
+Custom name entity recognition
+
+Custom name entity recognition Sep 15, 2023 1 hr 3 min
+
+
+
+Build a Language Understanding model
+
+The Language Understanding service enables you to train a language model that apps can use to extract meaning
+
+from natural language.
+
+
+
+Sep 15, 2023 59 min
+
+
+
+Publish and use a Language
+
+Understanding app
+
+After creating a Language
+
+Understanding app, you can publish it and consume it from client
+
+applications.
+
+
+
+Sep 15, 2023 1 hr 3 min
+
+
+
+Create speech-
+
+enabled apps with the Speech service
+
+
+
+Create speech-enabled apps with the Sep 15, 2023 58 min Speech service
+
+
+
+Translate speech with the speech service
+
+
+
+Translate speech with the speech Sep 15, 2023 47 min service
+
+
+
+Extract insights
+
+from text with the Language service
+
+
+
+Extract insights from text with the Sep 15, 2023 57 min Language service
+
+
+
+Translate text with the Translator service
+
+Sep 15, 2023
+
+48 min
+
+
+
+Create and consume Cognitive Services
+
+
+
+Sep 15, 2023
+
+
+
+47 min
+
+
+
+Deploy cognitive services in containers
+
+
+
+Sep 15, 2023
+
+
+
+54 min
+
+
+
+Monitor Cognitive Services
+
+
+
+Sep 15, 2023
+
+
+
+42 min
+
+
+
+Secure Cognitive Services
+
+
+
+Sep 15, 2023
+
+
+
+42 min
+
+Translate text with the Translator
+
+service
+
+
+
+Create and
+
+consume Cognitive Services
+
+
+
+Deploy cognitive services in
+
+containers
+
+
+
+Monitor Cognitive Services
+
+
+
+Secure Cognitive Services
+
+
+
+Prepare to develop AI solutions on
+
+Azure
+
+
+
+Prepare to develop AI solutions on Sep 15, 2023 31 min Azure
+
+
+
+Introduction to Docker containers
+
+Introduction to Docker containers Sep 15, 2023 32 min
+
+
+
+
+
+Use Apache Spark in Microsoft Fabric
+
+Apache Spark is a core technology for large-scale data analytics. Microsoft Fabric provides support for Spark
+
+clusters, enabling you to analyze and process data at scale.
+
+
+
+Sep 15, 2023
+
+
+
+1 hr 13 min
+
+
+
+
+
+Describe the core architectural
+
+components of Azure
+
+Concepts around physical and
+
+management architecture for Azure, including data centers and regions,
+
+management groups and subscriptions, etc.
+
+
+
+Sep 15, 2023 48 min
+
+
+
+Describe Azure
+
+identity, access, and security
+
+
+
+&lt;module title&gt; Sep 15, 2023 43 min
+
+
+
+Describe Azure storage services
+
+Azure storage services, tiers,
+
+redundancy options, and migration options and tools.
+
+
+
+Sep 15, 2023 46 min
+
+
+
+
+
+Describe Azure compute and
+
+networking services
+
+Introduction to Azure compute services (virtual machines, Azure Virtual
+
+Desktop, Azure Functions) and
+
+networking services (virtual networks, ExpressRoute, DNS, etc.).
+
+
+
+Sep 15, 2023 1 hr 8 min
+
+
+
+Store local data with SQLite in a
+
+.NET MAUI app
+
+
+
+Learn how to store and access data Sep 15, 2023 1 hr 4 min held in SQLite using a .NET MAUI app
+
+
+
+
+
+Consume REST web services in .NET MAUI apps
+
+Consume a REST web service by using HttpClient and perform basic CRUD
+
+operations. You will detect when your device is connected to the internet to provide a good user experience and
+
+take advantage of the native networking stacks to get top performance.
+
+
+
+Sep 15, 2023 39 min
+
+
+
+Create multi-page
+
+.NET MAUI apps
+
+with tab and flyout navigation
+
+Use .NET MAUI shell to create multi- page applications with tabs and flyout navigation.
+
+
+
+Sep 14, 2023 49 min
+
+
+
+
+
+Design consistent
+
+.NET MAUI XAML
+
+pages by using
+
+shared resources
+
+Learn how to use static and dynamic
+
+shared resources to build a MAUI user interface. And see how styles can make the user interface both consistent and accessible.
+
+
+
+Sep 14, 2023 46 min
+
+
+
+Use Apache Spark
+
+in Azure Databricks
+
+Use Apache Spark in Azure Databricks Sep 14, 2023 1 hr 14
+
+min
+
+
+
+Customize layout in
+
+.NET MAUI XAML
+
+pages
+
+Create consistent user interfaces across different devices by using StackLayout and Grid.
+
+
+
+Sep 14, 2023 1 hr
+
+
+
+Create a UI in a
+
+.NET MAUI app by using XAML
+
+
+
+Learn how to design a UI for a .NET Sep 14, 2023 54 min MAUI app using XAML
+
+
+
+Create a cross-
+
+platform app with
+
+.NET MAUI
+
+Learn how to use Visual Studio with
+
+.NET MAUI to create a cross-platform app
+
+
+
+Sep 14, 2023 33 min
+
+
+
+Automate Azure
+
+tasks using scripts with PowerShell
+
+Learn how to install Azure PowerShell on Linux, macOS, or Windows and then connect to Azure and manage your
+
+resources.
+
+
+
+Sep 14, 2023 1 hr 11
+
+min
+
+
+
+
+
+Get started building with Power BI
+
+Power BI is a collection of software
+
+services and applications that let you
+
+connect to all sorts of data sources and create compelling visuals and reports.
+
+You can benefit from receiving those reports, or you can share them with others inside or outside your
+
+organization. Learn the basics of Power BI, how its services and applications work together, and how they can be
+
+used to create or experience
+
+compelling visuals and analytics based on your data.
+
+
+
+Sep 14, 2023 40 min
+
+
+
+
+
+Introduction to
+
+GitHub Copilot for Business
+
+GitHub Copilot for Business builds the power of generative AI into an editor extension that suggests code in real- time. By using context to provide and synthesize code to match, it allows
+
+developers to convert comments to
+
+code, autofill repetitive code, and show alternatives.
+
+
+
+Sep 14, 2023 23 min
+
+
+
+Introduction to GitHub Copilot
+
+GitHub Copilot is an AI pair programmer that offers autocomplete- style suggestions as you code.
+
+
+
+Sep 14, 2023 17 min
+
+Describe
+
+
+
+monitoring tools in Azure
+
+Describe monitoring tools in Azure
+
+Sep 14, 2023
+
+13 min
+
+Describe features and tools for
+
+
+
+Describe features and tools for
+
+
+
+
+
+managing and deploying Azure
+
+resources
+
+managing and deploying Azure resources
+
+Sep 14, 2023
+
+22 min
+
+
+
+Describe features and tools in Azure
+
+for governance and compliance
+
+
+
+Describe features and tools in Azure for governance and compliance
+
+
+
+Sep 14, 2023 34 min
+
+
+
+Describe cost management in Azure
+
+
+
+Describe cost management in Azure Sep 14, 2023 43 min
+
+
+
+
+
+Describe cloud service types
+
+Introduction to cloud service types
+
+(Infrastructure, Platform, and Software as a Service models) and associated use cases for each.
+
+
+
+Sep 14, 2023 12 min
+
+
+
+Describe the
+
+benefits of using cloud services
+
+Introduction to concepts surrounding cloud computing. Mostly platform
+
+agnostic, focused instead on general concepts.
+
+
+
+Sep 14, 2023 17 min
+
+
+
+
+
+Describe cloud computing
+
+Introduction to concepts surrounding cloud computing. Mostly platform
+
+agnostic, focused instead on general concepts.
+
+
+
+Sep 14, 2023 23 min
+
+
+
+
+
+Fundamentals of generative AI
+
+Learn what generative AI is, how large language models form the foundation of generative AI applications, and see examples of copilots and good
+
+prompts.
+
+
+
+Sep 14, 2023 40 min
+
+
+
+Use your own data with Azure OpenAI Service
+
+
+
+Learn how to use your own data with Sep 14, 2023 33 min the Azure OpenAI Service.
+
+
+
+Generate images with Azure OpenAI Service
+
+
+
+Use DALL-E in Azure OpenAI service to Sep 14, 2023 38 min generate images
+
+
+
+Generate code with Azure OpenAI
+
+Service
+
+
+
+Learn how to use the Azure OpenAI Sep 14, 2023 50 min Service to generate and improve code.
+
+
+
+
+
+Apply prompt
+
+engineering with Azure OpenAI
+
+Service
+
+In this module, learn how prompt engineering can help to create and
+
+fine-tune prompts for natural language processing models. Prompt
+
+engineering involves designing and
+
+testing various prompts to optimize the performance of the model in
+
+generating accurate and relevant responses.
+
+
+
+Sep 14, 2023 1 hr 3 min
+
+
+
+Build natural
+
+language solutions with Azure OpenAI
+
+Learn how to integrate language understanding and prompt
+
+completions from Azure OpenAI into your app.
+
+
+
+Sep 14, 2023 57 min
+
+
+
+Get started with Azure OpenAI
+
+Service
+
+Azure OpenAI Service enables
+
+engineers to build enterprise-grade generative AI solutions.
+
+
+
+Sep 14, 2023 43 min
+
+
+
+Responsible Generative AI
+
+A practical approach to implementing generative AI responsibly.
+
+Sep 14, 2023 50 min
+
+
+
+Introduction to Azure OpenAI Service
+
+With Azure OpenAI, you can build solutions against OpenAI artificial intelligence models within Azure.
+
+
+
+Sep 14, 2023 1 hr 3 min
+
+
+
+Get started with AI on Azure
+
+Get started with AI on Azure Sep 14, 2023 34 min
+
+
+
+Use Delta Lake in Azure Synapse
+
+Analytics
+
+Delta Lake is an open source relational storage area for Spark that you can use to implement a data lakehouse
+
+architecture in Azure Synapse Analytics.
+
+
+
+Sep 14, 2023 1 hr 14
+
+min
+
+
+
+Transform data with Spark in Azure
+
+Synapse Analytics
+
+Learn how to use Apache Spark pools
+
+in Azure Synapse Analytics to transform data.
+
+
+
+Sep 14, 2023
+
+
+
+50 min
+
+Understand big data engineering
+
+
+
+Understand big data engineering with
+
+
+
+
+
+with Apache Spark in Azure Synapse
+
+Analytics
+
+Apache Spark in Azure Synapse Analytics
+
+Sep 14, 2023
+
+1 hr 6 min
+
+
+
+Explore developer
+
+tools for workspace interaction
+
+
+
+Explore developer tools for workspace Sep 14, 2023 37 min interaction
+
+
+
+Explore Azure
+
+Machine Learning workspace
+
+resources and assets
+
+
+
+Explore Azure Machine Learning Sep 14, 2023 1 hr 7 min workspace resources and assets
+
+
+
+
+
+Get started with testing in Python
+
+Use Python's standard library module to write unit tests, and then get
+
+exposed to the concepts of other types of testing and how to apply them.
+
+
+
+Sep 14, 2023 21 min
+
+
+
+Build an AI web app by using Python
+
+and Flask
+
+Use Python, Flask, and Azure Cognitive Services to build a web app that
+
+incorporates AI
+
+
+
+Sep 14, 2023
+
+1 hr 15 min
+
+
+
+Introduction to object-oriented
+
+programming with Python
+
+This module will teach you how to model problems by using object-
+
+oriented programming (OOP) concepts.
+
+
+
+Sep 14, 2023 46 min
+
+
+
+
+
+Introduction to Python
+
+Learn about the Python programming language, how to execute statements and scripts, declare variables, and
+
+create a basic Python app.
+
+
+
+Sep 14, 2023 16 min
+
+
+
+
+
+Use strings in Python
+
+Strings and string operations are
+
+among the main core types in Python. Manipulating text is an essential developer skill, and Python offers several ways to work with strings.
+
+
+
+Sep 14, 2023 24 min
+
+
+
+Use Boolean logic in Python
+
+Explore how to use the Boolean type in Python to craft complex expressions
+
+that apply conditional logic.
+
+
+
+Sep 14, 2023 32 min
+
+
+
+Create and manage projects in Python
+
+Learn how to use virtual environments and packages as you create and
+
+manage projects in Python.
+
+
+
+Sep 14, 2023 21 min
+
+
+
+Write your first
+
+Python programs
+
+Learn how to write your first Python programs, and to print and gather
+
+input on the console.
+
+
+
+Sep 14, 2023 30 min
+
+
+
+Set up your Python beginner
+
+development
+
+environment with Visual Studio Code
+
+
+
+Get started with learning Python by installing and configuring the tools
+
+you'll need to build real applications.
+
+
+
+Sep 14, 2023 28 min
+
+
+
+Using GitHub
+
+Copilot with Python
+
+Use GitHub Copilot with Visual Studio Code to make changes and updates to a Python application.
+
+
+
+Sep 14, 2023 22 min
+
+
+
+Get started with Jupyter notebooks for Python
+
+
+
+Get started using Jupyter notebooks for Sep 14, 2023 21 min Python programming.
+
+
+
+Use effective techniques for error handling in Python. Catching
+
+exceptions, raising new ones, and
+
+
+
+Sep 14, 2023
+
+
+
+31 min
+
+updating error messages are essential for robust Python projects.
+
+
+
+
+
+
+
+Functions are a foundational
+
+knowledge for writing modular code. Understanding inputs and outputs in
+
+
+
+Sep 14, 2023
+
+
+
+29 min
+
+functions will help you write better
+
+software that's reusable and readable.
+
+
+
+
+
+Most programs need to work with data more complex than strings or numbers. Python dictionaries allow you to create data types to model more complex
+
+
+
+Sep 12, 2023
+
+
+
+26 min
+
+information and relationships. This module explores how to create and utilize dictionaries in Python.
+
+
+
+
+
+With Python, you can use `while` loops to run the same task multiple times and
+
+
+
+
+
+Python error handling
+
+
+
+Python functions
+
+
+
+Manage data with Python dictionaries
+
+
+
+Use 'while' and 'for' loops in Python
+
+`for` loops to loop once over list data. In this module, you'll learn about the two loop types and when to apply
+
+each.
+
+Sep 12, 2023 30 min
+
+
+
+
+
+Introduction to lists in Python
+
+As a developer, you'll work with a lot of lists. A list is a series of values that
+
+contain variables of any type. You use lists in Python to store information.
+
+They're dynamic, so you can freely add items to them and remove items from them.
+
+
+
+Sep 12, 2023 34 min
+
+
+
+
+
+Use mathematical operations in
+
+Python
+
+Almost every application a developer creates involves some level of math.
+
+This module will explore the core
+
+functionality in Python and arithmetic operators.
+
+
+
+Sep 12, 2023 27 min
+
+
+
+Create a clustering model with Azure Machine Learning designer
+
+
+
+Create a clustering model with Azure Machine Learning designer
+
+
+
+Sep 12, 2023 1 hr 17
+
+min
+
+
+
+Create a
+
+classification model with Azure Machine Learning designer
+
+
+
+Create a classification model with Azure Machine Learning designer
+
+
+
+Sep 12, 2023 1 hr 27
+
+min
+
+
+
+Create a Regression Model with Azure Machine Learning designer
+
+
+
+Create a Regression Model with Azure Machine Learning designer
+
+
+
+Sep 12, 2023 1 hr 20
+
+min
+
+
+
+Use Automated Machine Learning in Azure Machine Learning
+
+
+
+Use Automated Machine Learning in Azure Machine Learning
+
+
+
+Sep 12, 2023 1 hr 14
+
+min
+
+
+
+Configure and
+
+manage secrets in Azure Key Vault
+
+
+
+Configure and manage secrets in Azure Sep 12, 2023 29 min Key Vault
+
+
+
+
+
+Secure your Azure Storage account
+
+Learn how Azure Storage provides multilayered security to protect your
+
+data with access keys, secure networks, and Advanced Threat Protection
+
+monitoring.
+
+
+
+Sep 12, 2023 45 min
+
+
+
+
+
+Connect an app to Azure Storage
+
+Create a simple application and add
+
+configuration, client library references, and C# or JavaScript code to connect it to Azure Storage.
+
+
+
+Sep 12, 2023 1 hr 5 min
+
+
+
+
+
+Create an Azure Storage account
+
+Discover ways to use an Azure Storage account to manage your data for
+
+billing, access, and storage location of your blobs, files, queues, and tables.
+
+
+
+Sep 12, 2023 30 min
+
+
+
+
+
+Choose a data
+
+storage approach in Azure
+
+Learn how using Azure Storage, Azure SQL Database, and Azure Cosmos DB - or a combination of them - for your
+
+business scenario is the best way to get the most performant solution.
+
+
+
+Sep 12, 2023 30 min
+
+
+
+
+
+Introduction to Azure virtual machines
+
+Learn about the decisions you make before creating a virtual machine, the
+
+options to create and manage the VM, and the extensions and services you
+
+use to manage your VM.
+
+
+
+Sep 12, 2023 1 hr 7 min
+
+
+
+Create a Windows virtual machine in Azure
+
+Learn to create an Azure virtual
+
+machine in minutes that can be used like a local physical desktop or server.
+
+
+
+Sep 12, 2023 51 min
+
+
+
+Provisioning a Linux virtual machine in Microsoft Azure
+
+Learn about different methods of
+
+provisioning Linux virtual machines in Microsoft Azure.
+
+
+
+Sep 12, 2023
+
+1 hr 19 min
+
+
+
+Plan your Linux environment in Azure
+
+Learn about the most important
+
+aspects of planning Linux environments in Azure.
+
+
+
+Sep 12, 2023 45 min
+
+
+
+Introduction to Linux on Azure
+
+This module introduces the services
+
+and platforms that Azure provides for Linux environments.
+
+
+
+Sep 12, 2023 44 min
+
+
+
+Build and run a web application with the MEAN stack on an Azure Linux virtual machine
+
+Learn how to decide if the MEAN stack (MongoDB, Express.js, AngularJS, and Node.js) is a good choice for you and set up a MEAN-based web application on a new Azure Linux virtual machine.
+
+
+
+Sep 12, 2023 42 min
+
+
+
+Automate Node.js deployments with Azure Pipelines
+
+Implement CI/CD pipeline for Node.js applications. Automate deployment of Vue, React, Angular or webpack apps with Azure Pipelines.
+
+
+
+Sep 12, 2023 1 hr
+
+
+
+Introduction to
+
+route management in Node.js with
+
+JavaScript
+
+Learn how to set up a Node.js API with multiple routes and handle incoming HTTP requests by using JavaScript.
+
+
+
+Sep 12, 2023 24 min
+
+
+
+
+
+Build a web API with Node.js and Express
+
+Use Express for Node.js to build RESTful APIs. Create and configure middleware to add things like logging and
+
+authentication/authorization among other web development topics. Use JavaScript with Express to create a
+
+Node.js web server with Visual Studio Code.
+
+
+
+Sep 12, 2023 28 min
+
+
+
+Work with files and directories in a
+
+Node.js app
+
+Build an app that manipulates files and directories with Node.js using
+
+JavaScript.
+
+
+
+Sep 12, 2023 43 min
+
+
+
+Interactively debug Node.js apps with the built-in and Visual Studio Code debuggers
+
+Learn how to efficiently debug your
+
+Node.js JavaScript app by using Visual Studio Code to fix your bugs quickly. Use the interactive debugger within Visual Studio Code to analyze and fix your JavaScript applications.
+
+
+
+Sep 12, 2023 37 min
+
+
+
+
+
+Create a new
+
+Node.js project and work with
+
+dependencies
+
+Create a Node.js project and learn to add packages and manage package
+
+dependencies in your project. Use the npm CLI and registry to add libraries
+
+and tools to your JavaScript/TypeScript web development projects using Visual Studio Code.
+
+
+
+Sep 12, 2023 40 min
+
+
+
+
+
+Introduction to Node.js
+
+Learn about Node.js: what it is, how it works, and when to use it. Create a
+
+Node.js application with JavaScript using Visual Studio Code.
+
+
+
+Sep 12, 2023 20 min
+
+
+
+Organize code using TypeScript namespaces
+
+
+
+Learn how to use TypeScript Sep 12, 2023 46 min namespaces' to organize code.
+
+
+
+Access external libraries from TypeScript
+
+
+
+Learn how to access external libraries Sep 12, 2023 46 min from TypeScript.
+
+
+
+Define generics in TypeScript
+
+Learn how to define generics in TypeScript.
+
+Sep 12, 2023 46 min
+
+
+
+Declare and
+
+instantiate classes in TypeScript
+
+
+
+Learn how to declare and instantiate Sep 12, 2023 1 hr 7 min classes in TypeScript.
+
+
+
+Develop typed
+
+functions by using TypeScript
+
+
+
+Learn how to develop typed functions Sep 12, 2023 51 min by using TypeScript.
+
+
+
+Implement
+
+interfaces in TypeScript
+
+
+
+Learn how to use interfaces to define Sep 12, 2023 46 min object types.
+
+
+
+Declare variable
+
+types in TypeScript
+
+Learn about the available types and how to associate them with variables.
+
+Sep 12, 2023 38 min
+
+
+
+
+
+Get started with TypeScript
+
+This module introduces you to the TypeScript language and shows you how to set up a TypeScript
+
+development environment.
+
+
+
+Sep 12, 2023 36 min
+
+
+
+Introduction to programming
+
+Learn about programming languages and the tools that developers use to
+
+create software for web development.
+
+
+
+Sep 12, 2023 20 min
+
+
+
+
+
+JavaScript arrays and loops
+
+JavaScript is a programming language used for web development as well as the server. Learn how to manipulate
+
+and store data within JavaScript.
+
+
+
+Sep 12, 2023 18 min
+
+
+
+
+
+Make decisions with JavaScript
+
+JavaScript is a programming language used for web development as well as the server. Learn the syntax for
+
+controlling data flow in JavaScript and
+
+its significance when used with Boolean data types.
+
+
+
+Sep 12, 2023 14 min
+
+
+
+
+
+Create modular code by using
+
+functions in JavaScript
+
+Functions are the building blocks for any application you'll create. With
+
+functions, you can create named,
+
+reusable sections of code to help make it more readable and maintainable. This module explores the core concepts of
+
+functions when used for web development to make HTML interactive.
+
+
+
+Sep 12, 2023 25 min
+
+
+
+
+
+JavaScript variables and data types
+
+JavaScript is a programming language used for web development as well as the server. Learn about variables and
+
+the data types that populate them.
+
+
+
+Sep 12, 2023 17 min
+
+
+
+
+
+Create a web UI
+
+with ASP.NET Core
+
+In this module, you'll learn how to create web pages using Razor with ASP.NET Core.
+
+
+
+Sep 12, 2023 45 min
+
+
+
+
+
+Learn the basics of web accessibility
+
+This module covers various concepts
+
+on the topic of accessibility and how to add it to your web applications during web development. You will learn the
+
+importance of using HTML tags
+
+properly to describe information, and
+
+various improvements you can make to your sites.
+
+
+
+Sep 12, 2023 15 min
+
+
+
+Build a simple website using HTML, CSS, and
+
+JavaScript
+
+Get started with web development using Visual Studio Code to build a website using HTML, CSS, and
+
+JavaScript, and using developer tools in the browser to check your work.
+
+
+
+Sep 12, 2023 44 min
+
+
+
+Train and evaluate classification
+
+models
+
+
+
+Train and evaluate classification models Sep 11, 2023 47 min
+
+
+
+
+
+Measure and
+
+optimize model performance with ROC and AUC
+
+Receiver operator characteristic curves are a powerful way to assess and fine- tune trained classification models. We introduce and explain the utility of
+
+these curves through learning content and practical exercises.
+
+
+
+Sep 11, 2023 36 min
+
+
+
+
+
+Confusion matrix and data
+
+imbalances
+
+How do we know if a model is good or bad at classifying our data? The way
+
+that computers assess model
+
+performance sometimes can be difficult for us to comprehend or can over-
+
+simplify how the model will behave in the real world. To build models that work in a satisfactory way, we need to find intuitive ways to assess them, and understand how these metrics can bias our view.
+
+
+
+Sep 11, 2023 52 min
+
+
+
+Select and customize
+
+architectures and hyperparameters using random
+
+forest
+
+
+
+Explore how altering the architecture of more complex models can bring about more effective results.
+
+
+
+Sep 11, 2023 52 min
+
+
+
+
+
+Create and understand classification
+
+models in machine learning
+
+Classification means assigning items into categories, or can also be thought of automated decision making. Here we introduce classification models through logistic regression, providing you with a stepping-stone toward more complex
+
+and exciting classification methods.
+
+
+
+Sep 11, 2023 52 min
+
+
+
+
+
+Refine and test machine learning models
+
+When we think of machine learning, we often focus on the training process. A small amount of preparation before
+
+this process can not only speed up and improve learning but also give us some confidence about how well our models will work when faced with data we have never seen before.
+
+
+
+Sep 11, 2023 52 min
+
+
+
+
+
+Introduction to data for machine
+
+learning
+
+The power of machine learning models comes from the data that is used to
+
+train them. Through content and exercises, we explore how to
+
+understand your data, how to encode it so that the computer can interpret it
+
+properly, how to clean it of errors, and tips that will help you create models
+
+that perform well.
+
+
+
+Sep 11, 2023 45 min
+
+
+
+
+
+Build classical
+
+machine learning models with
+
+supervised learning
+
+Supervised learning is a form of
+
+machine learning where an algorithm learns from examples of data. We
+
+progressively paint a picture of how supervised learning automatically
+
+generates a model that can make
+
+predictions about the real world. We also touch on how these models are
+
+tested, and difficulties that can arise in training them.
+
+
+
+Sep 11, 2023 52 min
+
+
+
+
+
+Introduction to machine learning
+
+A high-level overview of machine
+
+learning for people with little or no knowledge of computer science and
+
+statistics. You’ll be introduced to some essential concepts, explore data, and
+
+interactively go through the machine learning life-cycle - using Python to
+
+train, save, and use a machine learning model like we would in the real world.
+
+
+
+Sep 11, 2023 52 min
+
+
+
+
+
+Introduction to Web Development with Blazor
+
+Evaluate whether Blazor is appropriate to build your next web application,
+
+learn how pages and components of Blazor work to build a web application and evaluate when to use Blazor
+
+WebAssembly or Blazor Server
+
+
+
+Sep 11, 2023 19 min
+
+
+
+Build Connect Four game with Blazor
+
+Learn how to build a web app with Blazor.
+
+Sep 11, 2023 32 min
+
+
+
+Build Reusable
+
+Components with Blazor
+
+
+
+Use Razor Class Libraries to package Sep 11, 2023 18 min and deploy components with Blazor
+
+
+
+Build rich interactive
+
+components for your Blazor web apps
+
+Learn to use advanced features of Blazor in web apps. You'll learn how to interoperate with JavaScript code, use templated components, and handle
+
+events in the lifecycle of components.
+
+
+
+Sep 11, 2023 40 min
+
+
+
+Improve how web forms work in Blazor web apps
+
+
+
+Learn how to use DOM events, forms, Sep 11, 2023 34 min and validation in a Blazor app
+
+
+
+Use pages, routing, and layouts to
+
+improve Blazor navigation
+
+Learn how to optimize your app's
+
+navigation, use parameters from the URL, and create reusable layouts in a Blazor web app.
+
+
+
+Sep 11, 2023 41 min
+
+
+
+
+
+Interact with data in Blazor web apps
+
+Learn how to create a graphical user interface in a Blazor web app by
+
+creating and assembling Blazor
+
+components. Access data and share it for display on multiple pages within your app.
+
+
+
+Sep 11, 2023 59 min
+
+
+
+
+
+Train and
+
+understand
+
+regression models
+
+in machine learning
+
+Regression is arguably the most widely used machine learning technique,
+
+commonly underlying scientific
+
+discoveries, business planning, and stock market analytics. This learning material takes a dive into some
+
+common regression analyses, both simple and more complex, and
+
+provides some insight on how to assess model performance.
+
+
+
+Sep 11, 2023 52 min
+
+
+
+
+
+Explore and analyze data with Python
+
+Data exploration and analysis is at the core of data science. Data scientists
+
+require skills in languages like Python to explore, visualize, and manipulate data.
+
+
+
+Sep 11, 2023 49 min
+
+
+
+Automate Java container
+
+deployments with Azure Pipelines
+
+
+
+Implement a CI/CD pipeline for Java containers.
+
+
+
+Sep 11, 2023 56 min
+
+
+
+Develop Java web app on Azure using Eclipse
+
+Create a web app in Eclipse and deploy the app to Azure by using Azure Toolkit for Eclipse.
+
+
+
+Sep 11, 2023 49 min
+
+
+
+Migrate Java web applications to
+
+Azure Kubernetes Service
+
+Microsoft Learn module to learn Azure Migrate App Containerization with a
+
+hands-on lab using Azure Kubernetes Service for a Java web application
+
+
+
+Sep 11, 2023 33 min
+
+
+
+Monitor the health and performance of your web apps
+
+
+
+Learn how to monitor your solution for Sep 11, 2023 36 min performance and issues.
+
+
+
+Move app data to the cloud
+
+Learn about Azure's data solutions and perform a data migration.
+
+Sep 11, 2023 33 min
+
+
+
+Migrate a web app to Azure App
+
+Service
+
+Learn about the different app hosting options in Azure and perform an app migration.
+
+
+
+Sep 11, 2023 30 min
+
+
+
+Create an app migration plan
+
+Learn how to plan an app workload migration to Azure.
+
+Sep 11, 2023 24 min
+
+
+
+
+
+Develop Java
+
+serverless Functions on Azure using
+
+Maven
+
+Use the Maven Plugin for Azure
+
+Functions to create a cloud-based
+
+function that is triggered when certain values are passed in the HTTP request, and outputs a log entry to track the
+
+activity.
+
+
+
+Sep 11, 2023 44 min
+
+
+
+Develop Java web app on Azure using Maven
+
+Use the Maven plugin for Azure App
+
+Service to develop a Java web app and deploy the app to Azure.
+
+
+
+Sep 11, 2023 54 min
+
+
+
+Develop Java web app on Azure using IntelliJ
+
+In this module, you will learn how to use Azure to host your Java web apps, built by using IntelliJ IDEA.
+
+
+
+Sep 11, 2023 52 min
+
+
+
+Rapidly develop and deploy Java
+
+apps using GitHub Actions or Azure
+
+Pipelines
+
+Create a Terraform configuration,
+
+provision your Azure resources, and set up your project for continuous
+
+integration and continuous delivery (CI/CD) by using either GitHub Actions or Azure Pipelines.
+
+
+
+Sep 11, 2023 30 min
+
+
+
+Drive higher
+
+utilization of your Java apps -
+
+autoscaling
+
+Learn how to drive higher utilization of your Java apps on Azure using
+
+autoscaling
+
+
+
+Sep 11, 2023 56 min
+
+
+
+Monitoring Java applications on Azure
+
+
+
+Learn how to use monitoring for your Sep 11, 2023 1 hr Java applications on Azure
+
+
+
+
+
+Manage secrets in Java applications - Zero Trust and Zero
+
+In this module, you'll learn about managing secrets in your Java
+
+applications on Azure. You'll explore best practices like Zero Trust and Zero
+
+Secrets, and see how to apply them to
+
+
+
+Sep 11, 2023 34 min
+
+Secrets
+
+a hands-on Java project using Azure
+
+
+
+Key Vault.
+
+Discover how to build an app that
+
+Store application
+
+stores user files with Azure Blob
+
+data with Azure Blob storage
+
+storage, use Blob storage in a web app, and use the Azure Storage SDK for .NET
+
+Core.
+
+Sep 11, 2023
+
+50 min
+
+
+
+Sign in users with Azure Active
+
+Directory in a Java web app
+
+Learn how to authenticate users with Azure Active Directory and get
+
+authorized access to data in a Java web app using Microsoft Authentication
+
+Library.
+
+
+
+Sep 11, 2023 37 min
+
+
+
+
+
+Accelerate and
+
+scale a Spring Boot application with
+
+Azure Cache for Redis
+
+In this module, you'll learn what Azure Cache for Redis is, and how to use it with a Java and Spring Boot
+
+application. You'll use it to cache some business data through Spring Data
+
+Redis, and to store HTTP session data through Spring Session.
+
+
+
+Sep 11, 2023 41 min
+
+
+
+Enable
+
+asynchronous
+
+messaging in Java apps by using JMS and Azure Service Bus
+
+
+
+Send messages to and receive
+
+messages from Azure Service Bus with Spring Boot applications.
+
+
+
+Sep 11, 2023 37 min
+
+
+
+Build a Java app with cloud-scale
+
+NoSQL Cosmos DB
+
+Learn how to create a Java application to store and query data in Azure
+
+Cosmos DB
+
+
+
+Sep 11, 2023 38 min
+
+
+
+
+
+Migrate Java web applications to
+
+Azure App Service
+
+Microsoft Learn module to learn Azure Migrate App Containerization with a
+
+hands-on lab using Azure App Service for Java web applications
+
+
+
+Sep 11, 2023 32 min
+
+
+
+Containerize and deploy a Java app to Azure
+
+Containerize a Java app, push the container image to Azure Container Registry, and then deploy to Azure Kubernetes Service.
+
+
+
+Sep 11, 2023 40 min
+
+
+
+Deploy a Java EE (Jakarta EE)
+
+application to Azure
+
+Deploy a Java EE (Jakarta EE)
+
+application to JBoss EAP on Azure App Service and bind it to Azure Database for MySQL.
+
+
+
+Sep 11, 2023 47 min
+
+
+
+Build a real-time event-driven Java solution in Azure
+
+Send event-based telemetric data in real time to Azure Cosmos DB by using Azure Functions and an event hub.
+
+
+
+Sep 11, 2023 33 min
+
+
+
+Deploy Spring microservices to Azure
+
+In this workshop, you'll go through tasks to deploy Spring Boot
+
+microservices to Azure Spring Cloud (ASC).
+
+
+
+Sep 11, 2023 38 min
+
+
+
+Deploy a Java web app to Azure App Service
+
+You'll learn how to create a Java web
+
+application and deploy it to Azure App Service.
+
+
+
+Sep 11, 2023 21 min
+
+
+
+Deploy a Quarkus
+
+application to Azure Container Apps
+
+Create a Quarkus application, connect it to a PostgreSQL database, and then deploy to Azure Container Apps.
+
+
+
+Sep 11, 2023 51 min
+
+
+
+Deploy a Spring
+
+Boot app to Azure
+
+Create a Spring Boot application,
+
+connect it to a MySQL database, and then deploy to Azure App Service.
+
+
+
+Sep 11, 2023 30 min
+
+
+
+In this module, you'll learn about running your Java applications on Azure. You'll also choose the best
+
+service option among virtual machines
+
+
+
+Sep 11, 2023
+
+
+
+25 min
+
+(VMs), Azure App Service, serverless functions, Azure Kubernetes Service (AKS), and Azure Spring Cloud.
+
+
+
+
+
+In this module, you'll begin to discover the opportunities for Java developers
+
+
+
+Sep 11, 2023
+
+
+
+37 min
+
+on Azure.
+
+
+
+
+
+Choose the right Azure service for
+
+deploying your Java application
+
+
+
+Introduction to Java on Azure
+
+
+
+Secure MySQL
+
+database and Key Vault using a
+
+private endpoint
+
+
+
+Secure MySQL database and Key Vault using a private endpoint
+
+
+
+Sep 11, 2023 36 min
+
+
+
+Protect endpoints using Web
+
+Application Firewall
+
+
+
+Protect endpoints using Web Sep 11, 2023 Application Firewall
+
+1 hr 28 min
+
+
+
+Configure Azure Event Hubs for
+
+Azure Spring Apps
+
+
+
+Configure Azure Event Hubs for Azure Sep 11, 2023 54 min Spring Apps
+
+
+
+Create and
+
+configure Azure Service Bus for
+
+Azure Spring Apps
+
+
+
+Create and configure Azure Service Bus for Azure Spring Apps
+
+
+
+Sep 11, 2023 53 min
+
+
+
+Secure application secrets using Key Vault
+
+
+
+Secure application secrets using Key Sep 11, 2023 52 min Vault
+
+
+
+Enable monitoring and end-to-end
+
+tracing
+
+
+
+Enable monitoring and end-to-end Sep 11, 2023 53 min tracing
+
+
+
+Migrate a Spring Cloud application to Azure
+
+
+
+Migrate a Spring Cloud application to Sep 11, 2023 Azure
+
+1 hr 16 min
+
+
+
+Plan a Java application
+
+migration to Azure Spring Apps
+
+
+
+Plan a Java application migration to Azure Spring Apps
+
+
+
+Sep 11, 2023 51 min
+
+
+
+
+
+Build a web app with Blazor
+
+Learn how to set up your development environment and build your first web app with Blazor, Visual Studio Code,
+
+and C#.
+
+
+
+Sep 11, 2023 47 min
+
+
+
+
+
+Build Mixed Reality Apps in Native C# with StereoKit
+
+By the end of this module, you'll be able to set up, create, and build an application using StereoKit. You'll
+
+understand the features of StereoKit through a sample application called StereoKit ink application. You'll also work across OpenXR platforms like HoloLens 2 and Windows Mixed
+
+Reality.
+
+
+
+Sep 11, 2023 43 min
+
+
+
+
+
+Null safety in C#
+
+Learn coding practices to help prevent the occurrence of
+
+NullReferenceException.
+
+
+
+Sep 11, 2023 23 min
+
+
+
+Publish a web app to Azure with Visual Studio
+
+Learn how to use Azure App Service to create a new ASP.NET-based web app, then publish and update directly from Visual Studio.
+
+
+
+Sep 11, 2023 48 min
+
+
+
+Create a web API with ASP.NET Core controllers
+
+Create a RESTful service with ASP.NET Core controllers that supports create,
+
+read, update, delete (CRUD) operations.
+
+
+
+Sep 11, 2023 41 min
+
+
+
+Work with files and directories in a .NET app
+
+Learn how to use .NET, C#, and System.IO to work with directories, paths, files, and the file system.
+
+
+
+Sep 11, 2023 37 min
+
+
+
+
+
+Interactively debug
+
+.NET apps with the Visual Studio Code debugger
+
+Learn how to efficiently debug your
+
+.NET app by using Visual Studio Code to fix your bugs quickly. Use the
+
+interactive debugger within Visual Studio Code to analyze and fix your C# applications.
+
+
+
+Sep 11, 2023 43 min
+
+
+
+
+
+Create a new .NET project and work with dependencies
+
+Create a .NET project and learn to add packages and manage package
+
+dependencies in your project. Use the
+
+.NET Core CLI and NuGet registry to add libraries and tools to your C#
+
+applications through Visual Studio Code.
+
+
+
+Sep 11, 2023 18 min
+
+
+
+
+
+Introduction to
+
+.NET
+
+Start learning about .NET. Understand what .NET is and how it works. Quickly build a small app in a web-based .NET environment.
+
+
+
+Sep 11, 2023 28 min
+
+
+
+
+
+Write your first C# method
+
+This module covers the syntax of creating and executing methods.
+
+Creating reusable code and structuring solutions using methods are reviewed.
+
+
+
+Sep 11, 2023 55 min
+
+
+
+Challenge project - Create a mini-game
+
+Use methods with parameters and
+
+return values to develop the features of a console mini-game.
+
+
+
+Sep 11, 2023 45 min
+
+
+
+
+
+Guided project -
+
+Plan a Petting Zoo Visit
+
+Create an application that coordinates school visits to a petting zoo. This
+
+project requires the use of different methods with return types and
+
+parameters to complete the code.
+
+
+
+Sep 11, 2023 28 min
+
+
+
+Create C# methods that return values
+
+This module covers the return keyword and returning values from methods.
+
+Sep 11, 2023 55 min
+
+
+
+
+
+Create C# methods with parameters
+
+This module covers method
+
+parameters, including pass-by-
+
+reference and pass-by-value parameter types. This module also covers optional and named arguments.
+
+
+
+Sep 11, 2023 52 min
+
+
+
+Guided project - Debug and handle exceptions in a C#
+
+console application using Visual Studio Code
+
+This module guides you through the code verification process for a C#
+
+console application. Hands-on activities provide experience identifying logic
+
+issues, debugging the application, and implementing exception handling.
+
+Step-by-step instructions are provided.
+
+
+
+Sep 11, 2023 50 min
+
+
+
+
+
+Create and throw exceptions in C# console
+
+applications
+
+This module explores the process for creating, throwing, and catching
+
+customized exceptions in a C# console application. Hands-on activities provide experience customizing exception
+
+properties, throwing exceptions, and using the exception properties to
+
+mitigate the exception within a catch block.
+
+
+
+Sep 11, 2023 55 min
+
+
+
+
+
+Implement
+
+exception handling in C# console
+
+applications
+
+This module explores the use of
+
+exceptions and the exception handling process in C# console applications.
+
+Hands-on activities provide experience implementing exception handling
+
+patterns for various coding scenarios.
+
+
+
+Sep 11, 2023 1 hr 18
+
+min
+
+
+
+
+
+Implement the Visual Studio Code debugging tools for C#
+
+This module explores the tools and processes used to debug C# console applications in Visual Studio Code.
+
+Hands-on activities provide experience using breakpoints, conditional
+
+breakpoints, and the debugging
+
+resources in the RUN AND DEBUG view.
+
+
+
+Sep 11, 2023
+
+
+
+1 hr 21 min
+
+
+
+
+
+Review the
+
+principles of code debugging and
+
+exception handling
+
+This module examines code validation using a combination of testing,
+
+debugging, and exception handling. The debugging process and benefits provided by code debugger are
+
+reviewed, along with the principals and processes behind exception handling.
+
+
+
+Sep 11, 2023 26 min
+
+
+
+
+
+Challenge project - Debug a C# console application using Visual Studio Code
+
+This module helps you evaluate your debugging skills. You start with a C#
+
+console application that contains code logic issues and a specification that
+
+describes the requirements. You’re
+
+challenged to demonstrate your ability to identify and fix the issues using the Visual Studio Code debugger tools.
+
+
+
+Sep 11, 2023 37 min
+
+
+
+Convert data types using casting and conversion
+
+techniques in C#
+
+Take control of the data in your
+
+applications, knowing when to apply the correct technique to change data types as needed.
+
+
+
+Sep 11, 2023 1 hr 2 min
+
+
+
+Choose the correct data type in your C# code
+
+Learn the difference between many data types, how they work, what they do, and how to choose one over
+
+another.
+
+
+
+Sep 11, 2023 47 min
+
+
+
+Challenge project - Work with variable data in C#
+
+
+
+Challenge project - Work with variable Sep 11, 2023 43 min data in C#
+
+
+
+Guided project - Work with variable data in C#
+
+
+
+Guided project - Work with variable Sep 11, 2023 38 min data in C#
+
+
+
+Modify the content of strings using
+
+built-in string data type methods in C#
+
+
+
+Use built in methods to extract,
+
+remove, or replace data in strings.
+
+
+
+Sep 11, 2023 1 hr 15
+
+min
+
+
+
+Format alphanumeric data for presentation in C#
+
+Use C# to format strings with white
+
+space, special characters, padding, and alignment. Give context to numeric data like currency, percentages, and
+
+numbers with decimals.
+
+
+
+Sep 11, 2023 58 min
+
+
+
+Perform operations on arrays using helper methods in C#
+
+Use powerful helper methods to
+
+manipulate and control the content of arrays.
+
+
+
+Sep 11, 2023 58 min
+
+
+
+Install and
+
+configure Visual Studio Code
+
+Learn how to configure Visual Studio Code for C# and how to use this professional IDE to create and run
+
+console applications.
+
+
+
+Sep 11, 2023 35 min
+
+
+
+Challenge project -
+
+Develop foreach and if-elseif-else structures to
+
+process array data in C#
+
+Demonstrate your ability to update a console app that implements arrays, foreach loops, and if statements in
+
+response to a user requested feature update.
+
+
+
+Sep 11, 2023 56 min
+
+
+
+Guided project - Develop foreach and if-elseif-else structures to
+
+process array data in C#
+
+
+
+Gain experience developing a console app that implements arrays, foreach
+
+loops, and if statements to achieve app specifications.
+
+
+
+Sep 11, 2023 1 hr 33
+
+min
+
+
+
+Create readable code with
+
+conventions,
+
+whitespace, and comments in C#
+
+Write code that is easier to read, update and support using naming conventions, comments and
+
+whitespace.
+
+
+
+Sep 11, 2023 48 min
+
+
+
+Store and iterate
+
+through sequences of data using Arrays and the foreach
+
+statement in C#
+
+Work with sequences of related data in data structures known as arrays. Then, learn to iterate through each item in
+
+the sequence.
+
+
+
+Sep 11, 2023 51 min
+
+
+
+Add decision logic to your code using the if-elseif-else
+
+statement in C#
+
+Learn to branch your code's execution path by evaluating boolean
+
+expressions.
+
+
+
+Sep 11, 2023 56 min
+
+
+
+Call methods from the .NET Class
+
+Library using C#
+
+Use functionality in the .NET Class
+
+Library by calling methods that return values, accept input parameters, and more.
+
+
+
+Sep 11, 2023 54 min
+
+
+
+Control variable scope and logic
+
+using code blocks in C#
+
+Use code blocks with more confidence, understanding how they impact the
+
+visibility and accessibility of both higher and lower-level constructs in your code.
+
+
+
+Sep 11, 2023 37 min
+
+
+
+Evaluate Boolean expressions to
+
+make decisions in C#
+
+Learn the operators and techniques required to evaluate and compare values in your decision statements.
+
+
+
+Sep 11, 2023 50 min
+
+
+
+Challenge project - Develop branching and looping
+
+structures in C#
+
+
+
+Challenge project - Develop branching and looping structures in C#
+
+
+
+Sep 11, 2023 1 hr 8 min
+
+
+
+Guided project -
+
+Develop conditional branching and
+
+looping structures in C#
+
+
+
+Guided project - Develop conditional Sep 11, 2023 branching and looping structures in C#
+
+
+
+1 hr 40 min
+
+
+
+Add looping logic to your code using the do-while and while statements in C#
+
+
+
+Use the `do-while` and `while`
+
+statements to iterate as long as a
+
+Boolean expression evaluates to true.
+
+
+
+Sep 11, 2023 50 min
+
+
+
+Iterate through a code block using
+
+for statement in C#
+
+Use the `for` iteration statement to loop a pre-set number of times and control
+
+the iteration process.
+
+
+
+Sep 11, 2023 37 min
+
+
+
+Branch the flow of code using the
+
+switch-case
+
+construct in C#
+
+Learn how to add branching logic that matches one variable or expression
+
+against many possible values.
+
+
+
+Sep 11, 2023 34 min
+
+
+
+Connect and deploy to Ethereum
+
+networks
+
+Learn about and use Ethereum
+
+networks for development, testing, and production.
+
+
+
+Sep 11, 2023 31 min
+
+
+
+Create tokens using OpenZeppelin
+
+Learn about the significance of tokens and how they are used in blockchain.
+
+Sep 11, 2023 31 min
+
+
+
+Write Ethereum
+
+smart contracts by using Solidity
+
+
+
+Learn how to install and use tools that Sep 11, 2023 45 min you can use to develop smart contracts.
+
+
+
+Learn how to use Solidity
+
+Discover how Solidity can help you program smart contracts for the
+
+Ethereum blockchain platform.
+
+
+
+Sep 11, 2023 44 min
+
+
+
+
+
+Introduction to blockchain on Azure
+
+Introduction to blockchain on Azure. See how blockchain allows business partners to trust each other's data
+
+without a central authority. You'll also
+
+learn a bit about how blockchain works.
+
+The goal is to help you decide if
+
+blockchain is a good choice for your scenario.
+
+
+
+Sep 11, 2023 34 min
+
+
+
+Guided project -
+
+Calculate final GPA
+
+Guided project - Calculate final GPA Sep 11, 2023 54 min
+
+
+
+Guided project -
+
+Calculate and print student grades
+
+
+
+Guided project - Calculate and print Sep 11, 2023 44 min student grades
+
+
+
+Perform basic operations on numbers in C#
+
+Learn the operators and techniques
+
+used to perform basic math operations on numeric data.
+
+
+
+Sep 11, 2023 50 min
+
+
+
+
+
+Perform basic string formatting in C#
+
+Combine literal and variable text data that are filled with special characters, formatting, and Unicode into
+
+meaningful messages for the end user.
+
+
+
+Sep 11, 2023 54 min
+
+
+
+Store and retrieve data using literal
+
+and variable values in C#
+
+Use data in your applications by
+
+creating literal values and variable values of different data types.
+
+
+
+Sep 11, 2023 48 min
+
+
+
+Write your first C# code
+
+Get started by writing tiny code
+
+examples to learn the basics of the C# syntax!
+
+
+
+Sep 11, 2023 27 min
+
+
+
+Build a command- line to-do list
+
+program
+
+
+
+Create a Rust command-line program Sep 11, 2023 48 min to manage to-do list items.
+
+
+
+Write automated tests
+
+Learn about the types of testing you can do with Rust.
+
+Sep 11, 2023 33 min
+
+
+
+Explore modules, packages, and
+
+third-party crates
+
+Learn about how to effectively use modules and how to integrate with packages and third-party crates.
+
+
+
+Sep 11, 2023 32 min
+
+
+
+Implement generic types and traits
+
+Understand what generic types and
+
+traits are and how to use them in Rust.
+
+Sep 11, 2023 31 min
+
+
+
+Understand how Rust manages memory
+
+
+
+Discover the features that make Rust so Sep 11, 2023 31 min unique: ownership and borrowing.
+
+
+
+Handle errors in Rust
+
+In this module, you'll learn about ways to handle errors in Rust.
+
+Sep 11, 2023 34 min
+
+
+
+Use loops to iterate through data in
+
+Rust
+
+Explore how to use hash maps in Rust. Discover how to use loop expressions to iterate through data.
+
+
+
+Sep 11, 2023 25 min
+
+
+
+Test conditions with if/else expressions
+
+in Rust
+
+Explore Rust compound data types like arrays, vectors, and hash maps.
+
+Discover how to use if/else statements to test conditions.
+
+
+
+Sep 11, 2023 27 min
+
+
+
+Create your first Rust program
+
+Learn about Rust concepts, including variables, data types, and functions.
+
+Sep 11, 2023 37 min
+
+
+
+Spark architecture fundamentals
+
+Spark architecture fundamentals Aug 22, 2022
+
+33 min
+
+
+
+Store and apply operations on list data in F#
+
+This module covers collections in F#, with a specific focus on lists.
+
+
+
+Aug 21, 22 min
+
+2022
+
+
+
+
+
+Create and architect with functions in F#
+
+Learn what functions are and how to define and call them. In addition, use function patterns to architect with
+
+functions.
+
+
+
+Aug 21,
+
+2022
+
+
+
+18 min
+
+
+
+Manage execution flow in F#
+
+Learn how to manage execution flow in your programs by using `if...elif...else`
+
+and loop constructs.
+
+
+
+Aug 21, 16 min
+
+2022
+
+
+
+
+
+Store and retrieve data by using F#
+
+In this module, you'll learn about
+
+variables and data types. You'll also look at how to output data to the
+
+screen and capture user input. And you'll explore operators and ways to convert between data types.
+
+
+
+Aug 21,
+
+2022
+
+
+
+18 min
+
+
+
+Write your first F# code
+
+Set up your F# development
+
+environment, write your first line of F# code, and build your first F# application
+
+
+
+Aug 20, 28 min
+
+2022
+
+
+
+
+
+Write your first program in C++
+
+Get familiar with the C++ programming language. Construct a C++ program
+
+and learn basic C++ syntax. Also, learn how to identify and correct common
+
+programming errors.
+
+
+
+Feb 21, 2022 23 min
+
+
+
+Learn how to set up the Rust
+
+development environment, write a program, and use the Cargo build
+
+
+
+Dec 16, 2021 16 min
+
+system.
+
+
+
+A quick introduction to Rust language
+
+features and how Rust compares with other programming languages.
+
+Dec 14, 2021
+
+17 min
+
+
+
+N/A
+
+
+
+May 2, 2021
+
+
+
+41 min
+
+Set up the Rust development
+
+environment
+
+
+
+What is Rust
+
+
+
+Get started with Rust
+
+Create an Azure
+
+account
+
+Find out how to start using Azure by creating an account where you’ll see services and personal settings for
+
+identity, billing, and preferences.
+
+Aug 22,
+
+2020
+
+39 min
+
+Introduction to
+
+GitHub
+
+Learn to use key GitHub features,
+
+including issues, notifications, branches, commits, and pull requests.
+
+Aug 22,
+
+2020
+
+1 hr 12
+
+min
